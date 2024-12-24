@@ -1,55 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Xmas-letters on dandrade.dev</title>
+    <title>Xmas-Letters on dandrade.dev</title>
     <link>https://www.dandrade.dev/xmas-letters/</link>
-    <description>Recent content in Xmas-letters on dandrade.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Xmas-Letters on dandrade.dev</description>
+    <generator>Hugo -- 0.137.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2023 08:05:11 -0500</lastBuildDate><atom:link href="https://www.dandrade.dev/xmas-letters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Dec 2023 08:05:11 -0500</lastBuildDate>
+    <atom:link href="https://www.dandrade.dev/xmas-letters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Andrades 2023 Christmas Letter</title>
       <link>https://www.dandrade.dev/xmas-letters/2023/</link>
       <pubDate>Tue, 19 Dec 2023 08:05:11 -0500</pubDate>
-      
       <guid>https://www.dandrade.dev/xmas-letters/2023/</guid>
-      <description>You would think after having done this three times before, I would have some sort of clue about how to start this year&amp;rsquo;s Christmas Letter. Well the joke&amp;rsquo;s on you, I still have no idea what I&amp;rsquo;m doing&amp;hellip; so let&amp;rsquo;s get into it.
-Reflecting on 2023, I am very grateful for each and every one of you. That&amp;rsquo;s right, this is my Oscar&amp;rsquo;s speech moment. I am grateful for all the friendships that started, continued, or even reconnected this year.</description>
+      <description>&lt;p&gt;You would think after having done this three times before, I would have some sort of clue about how to start this year&amp;rsquo;s Christmas Letter. Well the joke&amp;rsquo;s on you, I still have no idea what I&amp;rsquo;m doing&amp;hellip; so let&amp;rsquo;s get into it.&lt;/p&gt;
+&lt;p&gt;Reflecting on 2023, I am very grateful for each and every one of you. That&amp;rsquo;s right, this is my Oscar&amp;rsquo;s speech moment. I am grateful for all the friendships that started, continued, or even reconnected this year. I&amp;rsquo;m grateful for all of you by my side and the encouragement you bring every day. It&amp;rsquo;s only taken 30+ years for this introvert to realize that alas, I cannot do it all on my own.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Andrades 2022 Christmas Letter</title>
       <link>https://www.dandrade.dev/xmas-letters/2022/</link>
       <pubDate>Sat, 17 Dec 2022 19:00:11 -0500</pubDate>
-      
       <guid>https://www.dandrade.dev/xmas-letters/2022/</guid>
-      <description>Our third annual Christmas Letter has arrived. And like most movie trilogies, this is the one that attempts to apologize for the mess that was the sequel by trying to get back to basics. But it&amp;rsquo;s probably not quite as good as the first. (Of course, we all know the exception to that rule is the OG Star Wars trilogy, Empire Strikes Back rules them all)
-Boy this train is already off its tracks.</description>
+      <description>&lt;p&gt;Our third annual Christmas Letter has arrived. And like most movie trilogies, this is the one that attempts to apologize for the mess that was the &lt;a href=&#34;https://www.dandrade.dev/xmas-letters/2021/&#34; title=&#34;Our 2021 letter&#34;&gt;sequel&lt;/a&gt; by trying to get back to basics. But it&amp;rsquo;s probably not quite as good as the &lt;a href=&#34;https://www.dandrade.dev/xmas-letters/2020/&#34; title=&#34;Our 2020 letter&#34;&gt;first&lt;/a&gt;. (Of course, we all know the exception to that rule is the OG Star Wars trilogy, Empire Strikes Back rules them all)&lt;/p&gt;
+&lt;p&gt;Boy this train is already off its tracks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Andrades 2021 Christmas Letter</title>
       <link>https://www.dandrade.dev/xmas-letters/2021/</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.dandrade.dev/xmas-letters/2021/</guid>
-      <description>And so 2020: Round Two comes to a close.
-After the crazy year that was 2020, 2021 was a welcome change of pace. Even if still not really back to normal. C&amp;rsquo;mon 2022, I believe in you!
-This year the girls ages are even, and their school grades are odd (yes, this is how my brain tracks these things, welcome to my mind). So I have a twelve, a ten, and an eight year old - respectively 7th, 5th, and 3rd grader - running around this house.</description>
+      <description>&lt;p&gt;And so &lt;code&gt;2020: Round Two&lt;/code&gt; comes to a close.&lt;/p&gt;
+&lt;p&gt;After the crazy year that was &lt;a href=&#34;https://www.dandrade.dev/xmas-letters/2020/&#34; title=&#34;our 2020 letter&#34;&gt;2020&lt;/a&gt;, 2021 was a welcome change of pace. Even if still not really back to normal. C&amp;rsquo;mon 2022, I believe in you!&lt;/p&gt;
+&lt;p&gt;This year the girls ages are even, and their school grades are odd (yes, this is how my brain tracks these things, welcome to my mind). So I have a twelve, a ten, and an eight year old - respectively 7th, 5th, and 3rd grader - running around this house.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Andrades 2020 Christmas Letter</title>
       <link>https://www.dandrade.dev/xmas-letters/2020/</link>
       <pubDate>Sun, 06 Dec 2020 21:30:03 +0500</pubDate>
-      
       <guid>https://www.dandrade.dev/xmas-letters/2020/</guid>
-      <description>2020, what a ride.
-How does one begin a Christmas letter anyways.
-The year started innocently enough. I think. I don&amp;rsquo;t even remember much about The Before Times. Except that I did get to host a Super Bowl party. And I was excited to do it again in 2021&amp;hellip; There goes that plan.
- This girl turned 11!
-  Mariah turned 11 this year. And she already acts like a teenager, so wish me luck.</description>
+      <description>&lt;p&gt;2020, what a ride.&lt;/p&gt;
+&lt;p&gt;How does one begin a Christmas letter anyways.&lt;/p&gt;
+&lt;p&gt;The year started innocently enough. I think. I don&amp;rsquo;t even remember much about The Before Times.
+Except that I did get to host a Super Bowl party. And I was excited to do it again in 2021&amp;hellip;
+There goes that plan.&lt;/p&gt;
+&lt;figure class=&#34;picture&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;mariah.jpeg&#34;
+         alt=&#34;Mariah before her orchestra concert in January&#34; width=&#34;400&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;This girl turned 11!&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Mariah turned 11 this year. And she already acts like a teenager, so wish me luck.
+Soccer is still pretty much her passion, which has been great to see.
+Her last season got cut short cause of COVID, meaning no spring tournaments. But they were able to start a new season this year in limited fashion and its been great watching her play again.
+Also, she&amp;rsquo;s a middle schooler now. 6th grade. Fancy new big campus. Keeping me on my toes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
